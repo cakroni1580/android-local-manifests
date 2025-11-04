@@ -2,7 +2,7 @@
 <manifest>
   <!-- Repositories -->
 
-  <remote name="aospm" fetch="https://github.com/aospm" />
+  <remote name="aospm" fetch="https://github.com/cakroni1580" />
 
   <!-- SDM845 generic device repo -->
   <project path="device/generic/sdm845" name="android_device_generic_sdm845" revision="main" remote="aospm" groups="default" />
